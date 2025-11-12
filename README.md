@@ -96,10 +96,6 @@ Group products by weight (Low / Medium / Bulk)
 
 Total inventory weight by category
 
-🛠️ How to Use This Project
-git clone https://github.com/<your-username>/Zepto-Ecommerce-SQL-Analysis.git
-cd Zepto-Ecommerce-SQL-Analysis
-
 
 Create a PostgreSQL database.
 
@@ -109,6 +105,3 @@ Import the dataset (ensure UTF-8 encoding).
 
 Execute the SQL queries step by step to reproduce analysis and insights.
 
-📜 License
-
-MIT License — free to use, fork, and showcase in your own portfolio.
